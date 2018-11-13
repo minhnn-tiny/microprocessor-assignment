@@ -1,6 +1,16 @@
 # microprocessor-assignment
 ## Task assingments
-- Giao diện người dùng - GUI: Toản.
-- Khối giao tiếp - Communication module: Lộc, Duy.
-- Khối dữ liệu 1 - Module 1: Tân, Nghị.
-- Khối dữ liệu 2 - Module 2: Minh.
+- GUI: Toản.
+- Communication module: Lộc, Duy.
+- Module 1: Tân, Nghị.
+- Module 2: Minh.
+## Coding style
+- Naming convention for functions and variables: use CamelCase. Ex: DoSomething, LcdWrite.
+- Block indentation:
+```
+if (condition) {
+  // Some code
+}
+```
+- Use space between expression. Ex: a = 1, a && b, a == b ? a : c.
+- To be continue...
